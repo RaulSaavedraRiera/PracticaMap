@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ale\\Desktop\\Grupo14\\PracticaMap\\PracticaMap\\Prueba1\\Prueba1.csproj": {}
+    "C:\\Users\\Ale\\Desktop\\Grupo14\\PracticaMap\\PracticaMap\\Scrolling\\Scrolling.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ale\\Desktop\\Grupo14\\PracticaMap\\PracticaMap\\Prueba1\\Prueba1.csproj": {
+    "C:\\Users\\Ale\\Desktop\\Grupo14\\PracticaMap\\PracticaMap\\Scrolling\\Scrolling.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ale\\Desktop\\Grupo14\\PracticaMap\\PracticaMap\\Prueba1\\Prueba1.csproj",
-        "projectName": "Prueba1",
-        "projectPath": "C:\\Users\\Ale\\Desktop\\Grupo14\\PracticaMap\\PracticaMap\\Prueba1\\Prueba1.csproj",
+        "projectUniqueName": "C:\\Users\\Ale\\Desktop\\Grupo14\\PracticaMap\\PracticaMap\\Scrolling\\Scrolling.csproj",
+        "projectName": "Scrolling",
+        "projectPath": "C:\\Users\\Ale\\Desktop\\Grupo14\\PracticaMap\\PracticaMap\\Scrolling\\Scrolling.csproj",
         "packagesPath": "C:\\Users\\Ale\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ale\\Desktop\\Grupo14\\PracticaMap\\PracticaMap\\Prueba1\\obj\\",
+        "outputPath": "C:\\Users\\Ale\\Desktop\\Grupo14\\PracticaMap\\PracticaMap\\Scrolling\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ale\\AppData\\Roaming\\NuGet\\NuGet.Config",
